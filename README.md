@@ -29,7 +29,7 @@
     bash <(curl -L -s https://raw.githubusercontent.com/lisiyong0707/freebm/main/install.sh)
     ```
     ```bash
-    bash <(curl -Ls https://raw.githubusercontent.com/lisiyong0707/linux-ibm/main/ct8-lite.sh)
+    bash <(curl -Ls https://raw.githubusercontent.com/lisiyong0707/linux-ibm/main/install.sh)
     ```
      ```bash
     bash <(curl -Ls https://raw.githubusercontent.com/lisiyong0707/ibmfree-linux-jeoyblog-/main/ct8-lite.shvmess)
